@@ -49,7 +49,7 @@ Microsoft Excel
 Files Included
 DASHBOARD.xlsx – An interactive Excel dashboard for quick and visual exploration
 
-12305426.py – Python script for data cleaning, EDA, visualization, and statistical analysis
+sikkim eemployee details analysis.py – Python script for data cleaning, EDA, visualization, and statistical analysis
 
 Author
 K. Kiran Sai Karthik
