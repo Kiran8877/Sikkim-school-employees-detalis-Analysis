@@ -51,6 +51,8 @@ DASHBOARD.xlsx – An interactive Excel dashboard for quick and visual explorati
 
 sikkim eemployee details analysis.py – Python script for data cleaning, EDA, visualization, and statistical analysis
 
+Employee_Details_0.xlxs-Raw data of employees 
+
 Author
 K. Kiran Sai Karthik
 Email: kanagarlakiransaikarthik@gmail.com
